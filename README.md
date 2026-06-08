@@ -19,12 +19,11 @@ Features
 - Mobile-Friendly Layout
 
 Live Demo
-
-[Paste Hosted Link Here]
+https://kasaaliasmiya.github.io/Asmiya-youtube-clone/
 
 GitHub Repository
+https://github.com/KasaaliAsmiya/Asmiya-youtube-clone
 
-[Paste Repository Link Here]
 
 Author
 
